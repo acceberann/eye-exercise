@@ -7,7 +7,7 @@ The exercise required me to add an additional eye to the page and have it also f
 
 ## How To Run
 
-Open the eyes.html file to give your mouse pointer the feeling that something's watching it.  Ensure you also have the eyes.css file and the oneeye.png file.
+Open the index.html file to give your mouse pointer the feeling that something's watching it.  Ensure you also have the styels.css, Eyes.js and the oneeye.png file in the same folder as the index.html file.
 
 ## MIT License
 
