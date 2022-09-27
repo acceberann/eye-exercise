@@ -9,6 +9,10 @@ The exercise required me to add an additional eye to the page and have it also f
 
 Open the index.html file to give your mouse pointer the feeling that something's watching it.  Ensure you also have the styels.css, Eyes.js and the oneeye.png file in the same folder as the index.html file.
 
+## Roadmap to Future Improvments
+
+I think it would be fun and a bit creepy to have an eye spawn on the click of a mouse and then follow the mouse pointer.
+
 ## MIT License
 
 **Copyright (c) 2020 John Williams**
